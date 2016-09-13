@@ -4,7 +4,7 @@ This Java program uses a version of the A* algorithm to calculate the shortest p
 
 ## Getting Started
 
-Open the folder in Eclipse, and run ```ImLostToo.java```. Under run configurations, be sure to add ```./maze/maxe1.txt``` as an argument.
+Open the folder in Eclipse, and run ```ImLostToo.java```. Under run configurations, be sure to add ```maze/maze#.txt``` as an argument. The text files in the maze folders are what the program uses to build the maze.
 
 ## Built With
 
