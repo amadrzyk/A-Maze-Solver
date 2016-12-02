@@ -11,7 +11,3 @@ Open the folder in Eclipse, and run ```ImLostToo.java```. Under run configuratio
 ## Built With
 
 * Eclipse
-
-## Acknowledgments
-
-* Western University's CS 1027B Course Staff
